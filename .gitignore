@@ -1,0 +1,23 @@
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs (if any)
+*.log
+
+# Env files (if experimenting with APIs, not likely here)
+.env
+
+# Build output (in case you add tooling later)
+dist/
+build/
+
+# Node (if you ever npm init)
+node_modules/
